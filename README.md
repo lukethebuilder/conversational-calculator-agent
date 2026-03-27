@@ -47,3 +47,8 @@ Type a message and press Enter. Type `quit` to exit.
 You: What is 42 multiplied by 7?
 Assistant: 42 multiplied by 7 is 294.
 ```
+
+## Credits
+
+- Tutorial: [3 Python AI Projects for Beginners - Full Tutorial](https://www.youtube.com/watch?v=XZdY15sHUa8) — this is project 1 from the video
+- Assisted by [Claude Code](https://claude.ai/code)

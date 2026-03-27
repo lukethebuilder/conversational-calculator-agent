@@ -1,4 +1,4 @@
-# project1 — AI Chatbot with Calculator
+# conversational-calculator-agent
 
 A beginner Python project: a CLI chatbot powered by LangChain and OpenAI that can hold conversations and perform arithmetic using a built-in calculator tool.
 
@@ -19,8 +19,8 @@ A beginner Python project: a CLI chatbot powered by LangChain and OpenAI that ca
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/lukethebuilder/project1.git
-   cd project1
+   git clone https://github.com/lukethebuilder/conversational-calculator-agent.git
+   cd conversational-calculator-agent
    ```
 
 2. Install dependencies:
